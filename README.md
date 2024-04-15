@@ -19,7 +19,7 @@ This application predicts the percentage of heart disease in the population of a
 
 2. Navigate to the project directory:
 
-cd heart-disease-prediction
+  cd heart-disease-prediction
 
 3. Install dependencies:
 
@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ## Usage
 1. Run the application:
    python app.py
+2. Enter the required input parameters:   
 - Number of bikers
 - Number of smokers
 3. Get the predicted percentage of heart disease in the town's population.
