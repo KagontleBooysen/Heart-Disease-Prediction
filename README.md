@@ -27,8 +27,9 @@ pip install -r requirements.txt
 
 ## Usage
 1. Run the application:
+   
    python app.py
-2. Enter the required input parameters:   
+3. Enter the required input parameters:   
 - Number of bikers
 - Number of smokers
 3. Get the predicted percentage of heart disease in the town's population.
