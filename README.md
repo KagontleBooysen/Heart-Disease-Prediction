@@ -9,27 +9,25 @@
 This application predicts the percentage of heart disease in the population of a town based on the number of bikers and smokers. It is trained on a dataset containing the percentage of people biking to work each day, the percentage of people smoking, and the percentage of people with heart disease in an imaginary sample of 500 towns.
 
 ## Features
-Predicts the percentage of heart disease in a town's population.
-Utilizes data on the percentage of bikers and smokers for prediction.
-Easy-to-use interface for entering input parameters.
-Installation
-Clone the repository:
+- Predicts the percentage of heart disease in a town's population.
+- Utilizes data on the percentage of bikers and smokers for prediction.
+- Easy-to-use interface for entering input parameters.
 
-bash
-Copy code
-git clone https://github.com/your-username/heart-disease-prediction.git
-Navigate to the project directory:
+## Installation
+1. Clone the repository:
+  git clone https://github.com/KagontleBooysen/Heart-Disease-Prediction.git  
 
-bash
-Copy code
+2. Navigate to the project directory:
+
 cd heart-disease-prediction
 
-Install dependencies:
+3. Install dependencies:
 
 pip install -r requirements.txt
 
 ## Usage
-
+1. Run the application:
+   python app.py
 - Number of bikers
 - Number of smokers
 3. Get the predicted percentage of heart disease in the town's population.
@@ -37,9 +35,9 @@ pip install -r requirements.txt
 ## Dataset
 The model is trained on a dataset containing the following features:
 
-Percentage of people biking to work each day.
-Percentage of people smoking.
-Percentage of people with heart disease in an imaginary sample of 500 towns.
+- Percentage of people biking to work each day.
+- Percentage of people smoking.
+- Percentage of people with heart disease in an imaginary sample of 500 towns.
 
 ## Credits
 This project is developed and maintained by K. Booysen.
