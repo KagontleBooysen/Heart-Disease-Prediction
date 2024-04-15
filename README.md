@@ -19,7 +19,7 @@ This application predicts the percentage of heart disease in the population of a
 
 2. Navigate to the project directory:
 
-   [Link text] (cd heart-disease-prediction)
+   cd heart-disease-prediction
 
 3. Install dependencies:
 
