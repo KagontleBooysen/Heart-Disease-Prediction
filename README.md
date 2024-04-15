@@ -30,8 +30,8 @@ pip install -r requirements.txt
 
 ## Usage
 
--Number of bikers
--Number of smokers
+- Number of bikers
+- Number of smokers
 3. Get the predicted percentage of heart disease in the town's population.
 
 ## Dataset
