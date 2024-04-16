@@ -5,6 +5,8 @@
 ![Heart_disease](https://github.com/KagontleBooysen/Heart-Disease-Prediction/assets/106469425/a992951e-f6f8-4a36-9f99-fa2fe713d5fb)
 
 
+Access my deployment model here : https://heart-disease-booysen-9a7cd57bba1a.herokuapp.com/
+
 ## Overview
 This application predicts the percentage of heart disease in the population of a town based on the number of bikers and smokers. It is trained on a dataset containing the percentage of people biking to work each day, the percentage of people smoking, and the percentage of people with heart disease in an imaginary sample of 500 towns.
 
