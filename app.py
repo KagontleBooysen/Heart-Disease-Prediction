@@ -10,7 +10,7 @@ people with heart disease in an imaginary sample of 500 towns.
 
 
 import numpy as np
-from flask import Flask, escape, request, render_template
+from flask import Flask, request, render_template
 import pickle
 
 #Create an app object using the Flask class. 
